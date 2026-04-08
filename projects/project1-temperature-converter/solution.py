@@ -32,3 +32,4 @@ elif choice == "2":
     celsius = (fahrenheit - 32) * 5/9
     print(f"{fahrenheit}°F = {celsius}°C")
 # Add a direction menu (C→F or F→C)
+# done
